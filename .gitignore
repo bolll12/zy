@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+/web/
+/user_data/
+/data/
+/pages/
+/papers/
+/作业文档/
+.env
+.env.*
+*.sqlite3*
+.DS_Store
